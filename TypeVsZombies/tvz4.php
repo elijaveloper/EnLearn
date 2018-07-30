@@ -89,26 +89,14 @@
 		var allowDeploy = true;
 		
 		var levelBank = [
-		    "m,o,u,s,e,m,o,u,s,e,m,o,u,s,e",
-		    "mouse,mouse,mouse,mouse",
-		    "c,l,i,c,k,c,l,i,c,k,c,l,i,c,k",
-		    "click,click,click,click",
-		    "mouse,click,mouse,click,mouse,click",
-		    "you,click,with,the,mouse,You,click,with,the,mouse",
-		    "k,e,y,b,o,a,r,d,k,e,y,b,o,a,r,d",
-		    "key,board,key,board,key,board",
-		    "key,board,keyboard,key,board,keyboard",
-		    "keyboard,keyboard,keyboard,keyboard",
-		    "t,y,p,e,t,y,p,e,t,y,p,e,t,y,p,e,t,y,p,e",
-		    "type,type,type,type,type,type,type",
-		    "type,with,the,keyboard,type,with,the,keyboard",
-		    "c,p,u,c,a,s,e,c,p,u,c,a,s,e,c,p,u",
-		    "cpu,case,cpu,case,cpu,case,cpu,case",
-		    "turn,on,turn,on,turn,on,turn,on,turn,on",
-		    "power,button,power,button,power,button",
-		    "m,o,n,i,t,o,r,m,o,n,i,t,o,r,m,o,n,i,t,o,r",
-		    "monitor,monitor,monitor,monitor,monitor",
-		    "look,at,the,monitor,look,at,the,monitor"];
+		    "a,s,d,f,j,k,l,;",
+        "a,a,a,a,s,s,s,s,d,d,d,d,f,f,f,f,j,j,j,j,k,k,k,k,l,l,l,l",
+        "aa,aa,ss,ss,dd,dd,ff,ff,jj,jj,kk,kk,ll,ll",
+        "q,w,e,r,t,y,u,i,o,p",
+        "z,x,c,v,b,n,m",
+        "qwe,rty,uiop,zxc,vbn,m",
+        "asdf,gh,jkl,qwe,zxc,yui,bnm"
+    ];
 		var levelCurrent = <?php echo isset($_GET['level']) ? $_GET['level']/2 : 0; ?>;
 		var wordTyped = [''];
 		var wordOffset = 50;
