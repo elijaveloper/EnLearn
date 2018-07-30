@@ -124,7 +124,7 @@
 			
 			$("#scorespace_nextLesson").on("click",function(){
 				if(levelIndex == numberOfLevels-1){
-					window.location.href = "/TypeVsZombies/tvz4.php?level=0";
+					window.location.href = "EnLearn/TypeVsZombies/tvz4.php?level=0";
 				}else{
 					window.location.href = "etyping.php?level_index=" + (levelIndex + 1);
 				}
