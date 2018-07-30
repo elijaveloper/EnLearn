@@ -1,0 +1,102 @@
+{"frames": {
+
+"Walk1.png":
+{
+	"frame": {"x":324,"y":291,"w":115,"h":185},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":19,"w":115,"h":185},
+	"sourceSize": {"w":172,"h":208},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Walk2.png":
+{
+	"frame": {"x":505,"y":482,"w":127,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":17,"w":127,"h":191},
+	"sourceSize": {"w":172,"h":208},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Walk3.png":
+{
+	"frame": {"x":250,"y":482,"w":135,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":16,"w":135,"h":191},
+	"sourceSize": {"w":172,"h":208},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Walk4.png":
+{
+	"frame": {"x":1,"y":482,"w":135,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":16,"w":135,"h":189},
+	"sourceSize": {"w":172,"h":208},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Walk5.png":
+{
+	"frame": {"x":568,"y":291,"w":129,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":17,"w":129,"h":188},
+	"sourceSize": {"w":172,"h":208},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Walk6.png":
+{
+	"frame": {"x":441,"y":291,"w":125,"h":185},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":19,"w":125,"h":185},
+	"sourceSize": {"w":172,"h":208},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Walk7.png":
+{
+	"frame": {"x":138,"y":482,"w":110,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":17,"w":110,"h":191},
+	"sourceSize": {"w":172,"h":208},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Walk8.png":
+{
+	"frame": {"x":634,"y":482,"w":113,"h":193},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":15,"w":113,"h":193},
+	"sourceSize": {"w":172,"h":208},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Walk9.png":
+{
+	"frame": {"x":387,"y":482,"w":116,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":15,"w":116,"h":191},
+	"sourceSize": {"w":172,"h":208},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Walk10.png":
+{
+	"frame": {"x":699,"y":291,"w":114,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":17,"w":114,"h":189},
+	"sourceSize": {"w":172,"h":208},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "zombiesprite.png",
+	"format": "RGBA8888",
+	"size": {"w":850,"h":676},
+	"scale": "0.4",
+	"smartupdate": "$TexturePacker:SmartUpdate:33b55019b2d72cf3b71ae9f439371424:2769eaa9be68c3fbcc55a63a0abf8541:0d19c70c50eda58f80dd6084f783eed7$"
+}
+}

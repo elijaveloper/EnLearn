@@ -1,0 +1,10 @@
+canvas{
+	z-index:-1;
+}
+
+.letter_next{
+	font: normal normal bold 40px/40px "Averia Sans Libre", Helvetica, sans-serif;
+	border: solid 2px;
+	z-index: 999;
+	padding: 20px;
+}
