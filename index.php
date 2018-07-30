@@ -7,7 +7,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/4.7.1/pixi.min.js"></script>
     <script src="js/main.js"></script>
     <script>
-      window.location = "EnLearn/TypingTutor/etypinghome.php";
+      window.location = "/TypingTutor/etypinghome.php";
     </script>
   </head>
   <body>
